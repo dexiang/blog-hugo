@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MacOSX on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/macosx/</link>
+    <description>Recent content in MacOSX on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 22 Jun 2017 19:18:20 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/macosx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>CentOS 7 上安裝與設定 Nginx &#43; PHP7</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/nginx-with-php7/</link>
+        <pubDate>Thu, 22 Jun 2017 19:18:20 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/nginx-with-php7/</guid>
+        <description>之前在工作上幾乎都是採用 Apache，前一陣子常聽到同事說 Nginx，但我卻沒有實際用過，趁這這次試用 GCP，也來試試看 Nginx 注：以下的環境是在</description>
+      </item>
+      
+      <item>
+        <title>刪除 .DS_Store 隱藏檔</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/remove-ds-store/</link>
+        <pubDate>Sat, 17 Jun 2017 16:50:20 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/remove-ds-store/</guid>
+        <description>最近新買了一台 NAS，在連線的時候常常會發現多了 .DS_Store 這個隱藏檔，平常在 Mac 上倒是無所謂，但是出現在 NAS 裡就覺得煩人了 DS_Store .DS_Store (Desktop Services Store) 是一種 Mac OS X 作業系統</description>
+      </item>
+      
+    
+  </channel>
+</rss>

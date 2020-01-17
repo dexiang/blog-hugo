@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asymmetric encryption on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/asymmetric-encryption/</link>
+    <description>Recent content in Asymmetric encryption on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 10 May 2018 17:01:32 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/asymmetric-encryption/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>密碼學簡介</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/cryptography-introduction/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/cryptography-introduction/</guid>
+        <description>在傳遞資料的時候，若是不希望別人看到，那麼我們就會把內容做適當的處理。在現實生活中其實隨處可見密碼學的概念，我們就來想像以下的情境吧。 Tony 想傳</description>
+      </item>
+      
+    
+  </channel>
+</rss>

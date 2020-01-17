@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MySQL on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/mysql/</link>
+    <description>Recent content in MySQL on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 18 Oct 2016 00:00:06 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>AWS EC2 LAMP (2)</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-2/</link>
+        <pubDate>Tue, 18 Oct 2016 00:00:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-2/</guid>
+        <description>上一篇介紹了如何建置 LAMP 環境，這篇要來介紹如何建立一個網頁服務的相關設定 Domain name 想到網頁當然第一個想到的是網址也就是 Domain name 我用的是 godaddy，到</description>
+      </item>
+      
+      <item>
+        <title>AWS EC2 LAMP (1)</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-1/</link>
+        <pubDate>Mon, 17 Oct 2016 00:33:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-1/</guid>
+        <description>使用 Linux 架設 web server，LAMP 是非常常用的選擇，LAMP 代表 Linux + Apache + MySQL + PHP，當然還有很多的組合，像是 LNMP (Linux + Nginx + MySQL + PHP) 等等的搭配，但這</description>
+      </item>
+      
+    
+  </channel>
+</rss>

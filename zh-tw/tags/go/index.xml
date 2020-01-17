@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/go/</link>
+    <description>Recent content in go on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 30 Apr 2018 17:32:35 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Golang JSON 處理</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/golang-json/</link>
+        <pubDate>Mon, 30 Apr 2018 17:32:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/golang-json/</guid>
+        <description>JSON（JavaScript Object Notation）是一種輕量級的資料交換語言，以純文字為基礎去儲存資料，有相容性高、易於理解且許多程式語言都</description>
+      </item>
+      
+      <item>
+        <title>Go 介紹</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/go-introduction/</link>
+        <pubDate>Mon, 29 Jan 2018 10:08:52 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/go-introduction/</guid>
+        <description>在一年多以前，開始在社群跟朋友間很常聽到 Go 這個程式語言，也很好奇為什麼它突然聲名大噪，為什麼這麼多人推崇，在做了一些功課以後，近期有個機會可</description>
+      </item>
+      
+    
+  </channel>
+</rss>

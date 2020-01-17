@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hexo on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/hexo/</link>
+    <description>Recent content in hexo on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 02 Feb 2017 19:08:43 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Hexo 草稿</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/hexo-draft/</link>
+        <pubDate>Thu, 02 Feb 2017 19:08:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/hexo-draft/</guid>
+        <description>在寫部落格的時候常常會因為篇幅過大沒辦法一次編寫完成，或是同時編寫多篇文章，這時候就會希望不要把這些文章發佈出去。 建立草稿 $ hexo new draft &amp;lt;title&amp;gt; Hexo 建立草</description>
+      </item>
+      
+      <item>
+        <title>Hexo 指南</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/hexo-guide/</link>
+        <pubDate>Fri, 20 Jan 2017 15:08:26 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/hexo-guide/</guid>
+        <description>其實目前官網的文件非常詳細，這裡就不多做介紹了。 安裝 Hexo $ npm install hexo-cli -g 建立 &amp;amp; 初始化 $ hexo init &amp;lt;folder&amp;gt; $ cd &amp;lt;folder&amp;gt; $ npm install 建立後會有以下資料夾 &amp;amp; 檔案 . ├── _config.yml # 網站設</description>
+      </item>
+      
+      <item>
+        <title>Hexo 簡介</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/hexo-introduction/</link>
+        <pubDate>Wed, 18 Jan 2017 19:08:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/hexo-introduction/</guid>
+        <description>幾年前因為想寫一些文章而用 wordpress 架設了一網站，但覺得要管理維護太麻煩，後來就改到 Blogger，雖然它的功能很方便，與 google 的產品結合 (GA)，且有</description>
+      </item>
+      
+    
+  </channel>
+</rss>

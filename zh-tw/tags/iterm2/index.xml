@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iTerm2 on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/iterm2/</link>
+    <description>Recent content in iTerm2 on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 20 May 2018 17:35:45 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/iterm2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>打造好用且美觀的 Terminal</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/prettify_your_mac_terminal/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/prettify_your_mac_terminal/</guid>
+        <description>身為一個程式設計師，隨身有一個好用的 command line tool，也是很正常的～ 我用的是 iterm2 + zsh + oh-my-zsh，這裡就不贅述是為什麼了（因為這組合太多人</description>
+      </item>
+      
+    
+  </channel>
+</rss>

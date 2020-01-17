@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>draft on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/draft/</link>
+    <description>Recent content in draft on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 02 Feb 2017 19:08:43 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Hexo 草稿</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/hexo-draft/</link>
+        <pubDate>Thu, 02 Feb 2017 19:08:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/hexo-draft/</guid>
+        <description>在寫部落格的時候常常會因為篇幅過大沒辦法一次編寫完成，或是同時編寫多篇文章，這時候就會希望不要把這些文章發佈出去。 建立草稿 $ hexo new draft &amp;lt;title&amp;gt; Hexo 建立草</description>
+      </item>
+      
+    
+  </channel>
+</rss>

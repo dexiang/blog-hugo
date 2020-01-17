@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/</link>
+    <description>Recent content on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 17 Jan 2020 15:33:33 +0800</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>About Me</title>
+        <link>https://blog.dexiang.me/zh-tw/about/</link>
+        <pubDate>Fri, 17 Jan 2020 15:33:33 +0800</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/about/</guid>
+        <description>我是 Tony</description>
+      </item>
+      
+      <item>
+        <title>打造好用且美觀的 Terminal</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/prettify_your_mac_terminal/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/prettify_your_mac_terminal/</guid>
+        <description>身為一個程式設計師，隨身有一個好用的 command line tool，也是很正常的～ 我用的是 iterm2 + zsh + oh-my-zsh，這裡就不贅述是為什麼了（因為這組合太多人</description>
+      </item>
+      
+      <item>
+        <title>X.509</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/x509/</link>
+        <pubDate>Tue, 15 May 2018 17:45:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/x509/</guid>
+        <description>延續上次簡介密碼學的時候有談到 PKI，今天要來看看 X.509 這個廣為使用的數位憑證標準。 先來複習一下名詞吧 Symmetric Encryption：對稱加密，加解密用</description>
+      </item>
+      
+      <item>
+        <title>密碼學簡介</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/cryptography-introduction/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/cryptography-introduction/</guid>
+        <description>在傳遞資料的時候，若是不希望別人看到，那麼我們就會把內容做適當的處理。在現實生活中其實隨處可見密碼學的概念，我們就來想像以下的情境吧。 Tony 想傳</description>
+      </item>
+      
+      <item>
+        <title>Golang JSON 處理</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/golang-json/</link>
+        <pubDate>Mon, 30 Apr 2018 17:32:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/golang-json/</guid>
+        <description>JSON（JavaScript Object Notation）是一種輕量級的資料交換語言，以純文字為基礎去儲存資料，有相容性高、易於理解且許多程式語言都</description>
+      </item>
+      
+      <item>
+        <title>GPS 簡介</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/gps-introduction/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/gps-introduction/</guid>
+        <description>GPS 英文全名是：Global Positioning System，全球定位系統 一般來說要表示地理位置都會用座標來標示，實際上用座標是不夠清楚的，因為所指的座標是用什</description>
+      </item>
+      
+      <item>
+        <title>File Locking</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/file-locking/</link>
+        <pubDate>Fri, 09 Feb 2018 20:20:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/file-locking/</guid>
+        <description>再動手寫這篇之前，我踩到了一個雷，這篇描述了一下我遇到的問題跟解法，若是有人有更好的想法，或是我哪裡有搞錯了，請告訴我，我會非常感謝的！！！</description>
+      </item>
+      
+      <item>
+        <title>HTTP Caching</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/http-caching/</link>
+        <pubDate>Thu, 01 Feb 2018 15:02:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/http-caching/</guid>
+        <description>近年來 Web 的服務越來越多樣化，其中不乏較大流量的服務，不僅增加傳輸的成本，也會拖慢 Browser 處理的時間，因此需要重複的利用之前所緩存的資源。 Caching 機制 那就</description>
+      </item>
+      
+      <item>
+        <title>Go 介紹</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/go-introduction/</link>
+        <pubDate>Mon, 29 Jan 2018 10:08:52 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/go-introduction/</guid>
+        <description>在一年多以前，開始在社群跟朋友間很常聽到 Go 這個程式語言，也很好奇為什麼它突然聲名大噪，為什麼這麼多人推崇，在做了一些功課以後，近期有個機會可</description>
+      </item>
+      
+      <item>
+        <title>FFmpeg H.264 編碼器</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-h264-options/</link>
+        <pubDate>Sat, 23 Dec 2017 23:44:58 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-h264-options/</guid>
+        <description>H.264 / MPEG-4 AVC 是目前最被廣泛被應用的視訊編碼格式，它的壓縮效率比 MPEG-2、MPEG-4、RV40 &amp;hellip;等舊視訊編碼格式還要高許多。 如</description>
+      </item>
+      
+      <item>
+        <title>FFmpeg 常用選項</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-common-options/</link>
+        <pubDate>Fri, 22 Dec 2017 17:04:38 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-common-options/</guid>
+        <description>接續著上次的簡介及流程介紹，這次就來聊聊常用到的選項（還偷渡了一點我會用到的 XDD） 一開始我們先來確認 FFmpeg 的版本 ＆ 內含 Library，這關係到</description>
+      </item>
+      
+      <item>
+        <title>FFmpeg 多媒體框架</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-introduction/</link>
+        <pubDate>Wed, 20 Dec 2017 17:04:38 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-introduction/</guid>
+        <description>FFmpeg 為開源的影音處理框架，可幫助我們進行影音的格式轉換、分離、混合、過濾等等，支援格式 也非常的廣泛，也可以在多個作業系統及硬體架構上運作。同時</description>
+      </item>
+      
+      <item>
+        <title>OWASP Top 10 2017</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/owasp-2017/</link>
+        <pubDate>Tue, 21 Nov 2017 16:04:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/owasp-2017/</guid>
+        <description>這禮拜一去參加了 OWASP 2017 的研討會，其中提到了新發佈的 OWASP Top 10 2017版；先回頭來談一下什麼是 OWASP，在開發系統時，除了功能以外，安全也是必須要</description>
+      </item>
+      
+      <item>
+        <title>GPS 資料格式</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/gps-nmea/</link>
+        <pubDate>Thu, 02 Nov 2017 10:07:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/gps-nmea/</guid>
+        <description>什麼是 NMEA file ？ 美國國家海洋電子協會 (National Marine Electronics Association，NMEA) 制定了 GPS 協定標準規格，NMEA 0183 的資料格式中記錄了座標、方位、速度、</description>
+      </item>
+      
+      <item>
+        <title>淺談 SEO</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/seo-basic/</link>
+        <pubDate>Fri, 20 Oct 2017 16:04:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/seo-basic/</guid>
+        <description>SEO 是什麼呢？它的全稱是 Search Engine Optimization（搜尋引擎優化）。 要如何優化呢？其實就是想辦法讓各家的搜尋引擎看懂你的網站；當然內容正確是</description>
+      </item>
+      
+      <item>
+        <title>CloudFlare 代管 GoDaddy DNS</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/godaddy-to-cloudflare/</link>
+        <pubDate>Sun, 20 Aug 2017 15:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/godaddy-to-cloudflare/</guid>
+        <description>前一陣子把 GoDaddy 所購買的 Domain 搬到 CloudFlare 代管，主要是看上免費的 CDN 和 SSL，設定上也很方便 新增站台 註冊後，點選畫面的右上角「Add Site」來新增站台吧 在</description>
+      </item>
+      
+      <item>
+        <title>重新安裝 macOS</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/reinstall-macos/</link>
+        <pubDate>Tue, 15 Aug 2017 15:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/reinstall-macos/</guid>
+        <description>最近換了新的工作，因舊的 mac 已不敷使用，只好將它脫手買一台最新最潮的 MacBook Pro 了 (不知道是該難過還是高興&amp;hellip;) 回到正題，其實 Mac 不太需要重</description>
+      </item>
+      
+      <item>
+        <title>CentOS 7 上安裝與設定 Nginx &#43; PHP7</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/nginx-with-php7/</link>
+        <pubDate>Thu, 22 Jun 2017 19:18:20 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/nginx-with-php7/</guid>
+        <description>之前在工作上幾乎都是採用 Apache，前一陣子常聽到同事說 Nginx，但我卻沒有實際用過，趁這這次試用 GCP，也來試試看 Nginx 注：以下的環境是在</description>
+      </item>
+      
+      <item>
+        <title>開始動手做吧～ 在 GCP 上建立自己的虛擬主機</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/start-gcp-and-gce/</link>
+        <pubDate>Mon, 19 Jun 2017 16:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/start-gcp-and-gce/</guid>
+        <description>最近申請了 GCP 上的帳號，首年免費試用，且送 300 美金，立馬開一台來玩玩啊。上面也有免費的機器可以使用，在盤算著是否可以把 AWS 上一些小的測試服務搬過來</description>
+      </item>
+      
+      <item>
+        <title>刪除 .DS_Store 隱藏檔</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/remove-ds-store/</link>
+        <pubDate>Sat, 17 Jun 2017 16:50:20 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/remove-ds-store/</guid>
+        <description>最近新買了一台 NAS，在連線的時候常常會發現多了 .DS_Store 這個隱藏檔，平常在 Mac 上倒是無所謂，但是出現在 NAS 裡就覺得煩人了 DS_Store .DS_Store (Desktop Services Store) 是一種 Mac OS X 作業系統</description>
+      </item>
+      
+      <item>
+        <title>雲端 PK - AWS &amp; GCP</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/gcp-vs-aws/</link>
+        <pubDate>Tue, 06 Jun 2017 19:18:13 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/gcp-vs-aws/</guid>
+        <description>近年來雲端平台的服務應該大家都不陌生吧～它讓我們可以將維護與建置的工作交付給雲端平台去處理；雲端化以後 IT 維護改由雲端供應商負責，讓我們能花更</description>
+      </item>
+      
+      <item>
+        <title>簡介 HTTP &amp; HTTPS &amp; HTTP2 協定</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/about-hyper-text-transfer-protocol/</link>
+        <pubDate>Fri, 03 Mar 2017 18:03:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/about-hyper-text-transfer-protocol/</guid>
+        <description>科技來自於人性，知識的傳遞原本是透過書本或口述，但是當網路出現後，人們想要在上傳遞資訊，就得要制定出一些規則，經過不斷修改，最後總結成了一個</description>
+      </item>
+      
+      <item>
+        <title>Hexo 草稿</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/hexo-draft/</link>
+        <pubDate>Thu, 02 Feb 2017 19:08:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/hexo-draft/</guid>
+        <description>在寫部落格的時候常常會因為篇幅過大沒辦法一次編寫完成，或是同時編寫多篇文章，這時候就會希望不要把這些文章發佈出去。 建立草稿 $ hexo new draft &amp;lt;title&amp;gt; Hexo 建立草</description>
+      </item>
+      
+      <item>
+        <title>Hexo 指南</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/hexo-guide/</link>
+        <pubDate>Fri, 20 Jan 2017 15:08:26 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/hexo-guide/</guid>
+        <description>其實目前官網的文件非常詳細，這裡就不多做介紹了。 安裝 Hexo $ npm install hexo-cli -g 建立 &amp;amp; 初始化 $ hexo init &amp;lt;folder&amp;gt; $ cd &amp;lt;folder&amp;gt; $ npm install 建立後會有以下資料夾 &amp;amp; 檔案 . ├── _config.yml # 網站設</description>
+      </item>
+      
+      <item>
+        <title>Hexo 簡介</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/hexo-introduction/</link>
+        <pubDate>Wed, 18 Jan 2017 19:08:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/hexo-introduction/</guid>
+        <description>幾年前因為想寫一些文章而用 wordpress 架設了一網站，但覺得要管理維護太麻煩，後來就改到 Blogger，雖然它的功能很方便，與 google 的產品結合 (GA)，且有</description>
+      </item>
+      
+      <item>
+        <title>雲端主機</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/cloud-server/</link>
+        <pubDate>Sat, 10 Dec 2016 00:33:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/cloud-server/</guid>
+        <description>之前有一大段時間都把服務放在 AWS 的 EC2 上，但最近在整理環境的時候開始思考，以我的需求有需要把服務放在 EC2 上嗎？ 就開始研究相關的服務，查了一些文章及</description>
+      </item>
+      
+      <item>
+        <title>雲端服務</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/cloud-computing/</link>
+        <pubDate>Sat, 10 Dec 2016 00:33:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/cloud-computing/</guid>
+        <description>雲端運算的比喻：對於一名用戶，由提供者提供的服務所代表的網路元素都是看不見的，仿佛被雲端掩蓋。 軟體即服務 Software as a Service, SaaS 平台即服務 Platform as a Service, PaaS 基礎設</description>
+      </item>
+      
+      <item>
+        <title>AWS EC2 LAMP (2)</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-2/</link>
+        <pubDate>Tue, 18 Oct 2016 00:00:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-2/</guid>
+        <description>上一篇介紹了如何建置 LAMP 環境，這篇要來介紹如何建立一個網頁服務的相關設定 Domain name 想到網頁當然第一個想到的是網址也就是 Domain name 我用的是 godaddy，到</description>
+      </item>
+      
+      <item>
+        <title>AWS EC2 LAMP (1)</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-1/</link>
+        <pubDate>Mon, 17 Oct 2016 00:33:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-1/</guid>
+        <description>使用 Linux 架設 web server，LAMP 是非常常用的選擇，LAMP 代表 Linux + Apache + MySQL + PHP，當然還有很多的組合，像是 LNMP (Linux + Nginx + MySQL + PHP) 等等的搭配，但這</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dexiang Blog</title>
+    <link>https://blog.dexiang.me/en-us/</link>
+    <description>Recent content on Dexiang Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 17 Jan 2020 15:33:33 +0800</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/en-us/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>About Me</title>
+        <link>https://blog.dexiang.me/en-us/about/</link>
+        <pubDate>Fri, 17 Jan 2020 15:33:33 +0800</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/en-us/about/</guid>
+        <description>Tony, alias Anthony, alias Dexiang</description>
+      </item>
+      
+    
+  </channel>
+</rss>

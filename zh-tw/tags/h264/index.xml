@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H264 on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/h264/</link>
+    <description>Recent content in H264 on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 23 Dec 2017 23:44:58 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/h264/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>FFmpeg H.264 編碼器</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-h264-options/</link>
+        <pubDate>Sat, 23 Dec 2017 23:44:58 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-h264-options/</guid>
+        <description>H.264 / MPEG-4 AVC 是目前最被廣泛被應用的視訊編碼格式，它的壓縮效率比 MPEG-2、MPEG-4、RV40 &amp;hellip;等舊視訊編碼格式還要高許多。 如</description>
+      </item>
+      
+    
+  </channel>
+</rss>

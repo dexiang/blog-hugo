@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NMEA on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/nmea/</link>
+    <description>Recent content in NMEA on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 10:07:32 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/nmea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>GPS 資料格式</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/gps-nmea/</link>
+        <pubDate>Thu, 02 Nov 2017 10:07:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/gps-nmea/</guid>
+        <description>什麼是 NMEA file ？ 美國國家海洋電子協會 (National Marine Electronics Association，NMEA) 制定了 GPS 協定標準規格，NMEA 0183 的資料格式中記錄了座標、方位、速度、</description>
+      </item>
+      
+    
+  </channel>
+</rss>

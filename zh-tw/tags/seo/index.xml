@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/seo/</link>
+    <description>Recent content in SEO on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Oct 2017 16:04:35 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/seo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>淺談 SEO</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/seo-basic/</link>
+        <pubDate>Fri, 20 Oct 2017 16:04:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/seo-basic/</guid>
+        <description>SEO 是什麼呢？它的全稱是 Search Engine Optimization（搜尋引擎優化）。 要如何優化呢？其實就是想辦法讓各家的搜尋引擎看懂你的網站；當然內容正確是</description>
+      </item>
+      
+    
+  </channel>
+</rss>

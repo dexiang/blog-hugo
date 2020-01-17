@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>http2 on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/http2/</link>
+    <description>Recent content in http2 on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 03 Mar 2017 18:03:43 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/http2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>簡介 HTTP &amp; HTTPS &amp; HTTP2 協定</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/about-hyper-text-transfer-protocol/</link>
+        <pubDate>Fri, 03 Mar 2017 18:03:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/about-hyper-text-transfer-protocol/</guid>
+        <description>科技來自於人性，知識的傳遞原本是透過書本或口述，但是當網路出現後，人們想要在上傳遞資訊，就得要制定出一些規則，經過不斷修改，最後總結成了一個</description>
+      </item>
+      
+    
+  </channel>
+</rss>

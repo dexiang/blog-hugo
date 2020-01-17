@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haversine on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/haversine/</link>
+    <description>Recent content in Haversine on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 13:07:35 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/haversine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>GPS 簡介</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/gps-introduction/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/gps-introduction/</guid>
+        <description>GPS 英文全名是：Global Positioning System，全球定位系統 一般來說要表示地理位置都會用座標來標示，實際上用座標是不夠清楚的，因為所指的座標是用什</description>
+      </item>
+      
+    
+  </channel>
+</rss>

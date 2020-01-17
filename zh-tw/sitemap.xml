@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/</loc>
+    <lastmod>2020-01-17T15:33:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/about/</loc>
+    <lastmod>2020-01-17T15:33:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/categories/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/iterm2/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/oh-my-zsh/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/powerlevel9k/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/categories/tech/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/zsh/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/zsh-autosuggestions/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/zsh-completions/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/zsh-syntax-highlighting/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/prettify_your_mac_terminal/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/ca/</loc>
+    <lastmod>2018-05-15T17:45:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/certificate/</loc>
+    <lastmod>2018-05-15T17:45:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/pki/</loc>
+    <lastmod>2018-05-15T17:45:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/x.509/</loc>
+    <lastmod>2018-05-15T17:45:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/x509/</loc>
+    <lastmod>2018-05-15T17:45:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/asymmetric-encryption/</loc>
+    <lastmod>2018-05-10T17:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/cryptography/</loc>
+    <lastmod>2018-05-10T17:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/signature/</loc>
+    <lastmod>2018-05-10T17:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/symmetric-encryption/</loc>
+    <lastmod>2018-05-10T17:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/cryptography-introduction/</loc>
+    <lastmod>2018-05-10T17:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86/</loc>
+    <lastmod>2018-05-10T17:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0/</loc>
+    <lastmod>2018-05-10T17:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86/</loc>
+    <lastmod>2018-05-10T17:01:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/go/</loc>
+    <lastmod>2018-04-30T17:32:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/golang/</loc>
+    <lastmod>2018-04-30T17:32:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/golang-json/</loc>
+    <lastmod>2018-04-30T17:32:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/json/</loc>
+    <lastmod>2018-04-30T17:32:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/datum/</loc>
+    <lastmod>2018-04-23T13:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/gps/</loc>
+    <lastmod>2018-04-23T13:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/gps-introduction/</loc>
+    <lastmod>2018-04-23T13:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/haversine/</loc>
+    <lastmod>2018-04-23T13:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/twd67/</loc>
+    <lastmod>2018-04-23T13:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/twd97/</loc>
+    <lastmod>2018-04-23T13:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/vincenty/</loc>
+    <lastmod>2018-04-23T13:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/wgs84/</loc>
+    <lastmod>2018-04-23T13:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/efs/</loc>
+    <lastmod>2018-02-09T20:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/fcntl/</loc>
+    <lastmod>2018-02-09T20:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/file-locking/</loc>
+    <lastmod>2018-02-09T20:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/flock/</loc>
+    <lastmod>2018-02-09T20:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/linux/</loc>
+    <lastmod>2018-02-09T20:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/lock/</loc>
+    <lastmod>2018-02-09T20:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/php/</loc>
+    <lastmod>2018-02-09T20:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/cache/</loc>
+    <lastmod>2018-02-01T15:02:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/cache-control/</loc>
+    <lastmod>2018-02-01T15:02:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/etage/</loc>
+    <lastmod>2018-02-01T15:02:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/http/</loc>
+    <lastmod>2018-02-01T15:02:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/http-caching/</loc>
+    <lastmod>2018-02-01T15:02:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/go-introduction/</loc>
+    <lastmod>2018-01-29T10:08:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/ffmpeg/</loc>
+    <lastmod>2017-12-23T23:44:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-h264-options/</loc>
+    <lastmod>2017-12-23T23:44:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/h264/</loc>
+    <lastmod>2017-12-23T23:44:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/series/media/</loc>
+    <lastmod>2017-12-23T23:44:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/series/</loc>
+    <lastmod>2017-12-23T23:44:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-common-options/</loc>
+    <lastmod>2017-12-22T17:04:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/ffmpeg-introduction/</loc>
+    <lastmod>2017-12-20T17:04:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/owasp/</loc>
+    <lastmod>2017-11-21T16:04:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/owasp-2017/</loc>
+    <lastmod>2017-11-21T16:04:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/gps-nmea/</loc>
+    <lastmod>2017-11-02T10:07:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/nmea/</loc>
+    <lastmod>2017-11-02T10:07:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/seo/</loc>
+    <lastmod>2017-10-20T16:04:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/seo-basic/</loc>
+    <lastmod>2017-10-20T16:04:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/cdn/</loc>
+    <lastmod>2017-08-20T15:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/cloudflare/</loc>
+    <lastmod>2017-08-20T15:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/godaddy-to-cloudflare/</loc>
+    <lastmod>2017-08-20T15:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/godaddy/</loc>
+    <lastmod>2017-08-20T15:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/ssl/</loc>
+    <lastmod>2017-08-20T15:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/mac/</loc>
+    <lastmod>2017-08-15T15:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/reinstall-macos/</loc>
+    <lastmod>2017-08-15T15:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/nginx-with-php7/</loc>
+    <lastmod>2017-06-22T19:18:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/categories/gcp/</loc>
+    <lastmod>2017-06-22T19:18:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/git/</loc>
+    <lastmod>2017-06-22T19:18:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/macosx/</loc>
+    <lastmod>2017-06-22T19:18:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/gce/</loc>
+    <lastmod>2017-06-19T16:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/gcp/</loc>
+    <lastmod>2017-06-19T16:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/start-gcp-and-gce/</loc>
+    <lastmod>2017-06-19T16:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/remove-ds-store/</loc>
+    <lastmod>2017-06-17T16:50:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/aws/</loc>
+    <lastmod>2017-06-06T19:18:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/gcp-vs-aws/</loc>
+    <lastmod>2017-06-06T19:18:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/http2/</loc>
+    <lastmod>2017-03-03T18:03:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/https/</loc>
+    <lastmod>2017-03-03T18:03:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/tcp/</loc>
+    <lastmod>2017-03-03T18:03:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/tls/</loc>
+    <lastmod>2017-03-03T18:03:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/about-hyper-text-transfer-protocol/</loc>
+    <lastmod>2017-03-03T18:03:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/draft/</loc>
+    <lastmod>2017-02-02T19:08:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/hexo/</loc>
+    <lastmod>2017-02-02T19:08:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/hexo-draft/</loc>
+    <lastmod>2017-02-02T19:08:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/hexo-guide/</loc>
+    <lastmod>2017-01-20T15:08:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/hexo-introduction/</loc>
+    <lastmod>2017-01-18T19:08:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/cloud-server/</loc>
+    <lastmod>2016-12-10T00:33:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/cloud-computing/</loc>
+    <lastmod>2016-12-10T00:33:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/apache/</loc>
+    <lastmod>2016-10-18T00:00:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-2/</loc>
+    <lastmod>2016-10-18T00:00:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/ec2/</loc>
+    <lastmod>2016-10-18T00:00:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/lamp/</loc>
+    <lastmod>2016-10-18T00:00:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/tags/mysql/</loc>
+    <lastmod>2016-10-18T00:00:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-1/</loc>
+    <lastmod>2016-10-17T00:33:06+00:00</lastmod>
+  </url>
+  
+</urlset>

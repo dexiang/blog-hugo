@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/</link>
+    <description>Recent content in Tags on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 20 May 2018 17:35:45 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>iTerm2</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/iterm2/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/iterm2/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>oh-my-zsh</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/oh-my-zsh/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/oh-my-zsh/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>powerlevel9k</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/powerlevel9k/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/powerlevel9k/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>zsh</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/zsh/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/zsh/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>zsh-autosuggestions</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/zsh-autosuggestions/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/zsh-autosuggestions/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>zsh-completions</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/zsh-completions/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/zsh-completions/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>zsh-syntax-highlighting</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/zsh-syntax-highlighting/</link>
+        <pubDate>Sun, 20 May 2018 17:35:45 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/zsh-syntax-highlighting/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>CA</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/ca/</link>
+        <pubDate>Tue, 15 May 2018 17:45:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/ca/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>certificate</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/certificate/</link>
+        <pubDate>Tue, 15 May 2018 17:45:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/certificate/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>PKI</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/pki/</link>
+        <pubDate>Tue, 15 May 2018 17:45:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/pki/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>X.509</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/x.509/</link>
+        <pubDate>Tue, 15 May 2018 17:45:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/x.509/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Asymmetric encryption</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/asymmetric-encryption/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/asymmetric-encryption/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>cryptography</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/cryptography/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/cryptography/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Signature</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/signature/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/signature/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Symmetric Encryption</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/symmetric-encryption/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/symmetric-encryption/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>對稱加密</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>數位簽章</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>非對稱加密</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86/</link>
+        <pubDate>Thu, 10 May 2018 17:01:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>go</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/go/</link>
+        <pubDate>Mon, 30 Apr 2018 17:32:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/go/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>golang</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/golang/</link>
+        <pubDate>Mon, 30 Apr 2018 17:32:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/golang/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>json</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/json/</link>
+        <pubDate>Mon, 30 Apr 2018 17:32:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/json/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Datum</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/datum/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/datum/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>GPS</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/gps/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/gps/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Haversine</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/haversine/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/haversine/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>TWD67</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/twd67/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/twd67/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>TWD97</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/twd97/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/twd97/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Vincenty</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/vincenty/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/vincenty/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>WGS84</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/wgs84/</link>
+        <pubDate>Mon, 23 Apr 2018 13:07:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/wgs84/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>EFS</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/efs/</link>
+        <pubDate>Fri, 09 Feb 2018 20:20:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/efs/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>fcntl</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/fcntl/</link>
+        <pubDate>Fri, 09 Feb 2018 20:20:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/fcntl/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>flock</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/flock/</link>
+        <pubDate>Fri, 09 Feb 2018 20:20:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/flock/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Linux</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/linux/</link>
+        <pubDate>Fri, 09 Feb 2018 20:20:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/linux/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>lock</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/lock/</link>
+        <pubDate>Fri, 09 Feb 2018 20:20:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/lock/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>PHP</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/php/</link>
+        <pubDate>Fri, 09 Feb 2018 20:20:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/php/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Cache</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/cache/</link>
+        <pubDate>Thu, 01 Feb 2018 15:02:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/cache/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Cache-Control</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/cache-control/</link>
+        <pubDate>Thu, 01 Feb 2018 15:02:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/cache-control/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>ETage</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/etage/</link>
+        <pubDate>Thu, 01 Feb 2018 15:02:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/etage/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>HTTP</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/http/</link>
+        <pubDate>Thu, 01 Feb 2018 15:02:39 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/http/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>FFmpeg</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/ffmpeg/</link>
+        <pubDate>Sat, 23 Dec 2017 23:44:58 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/ffmpeg/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>H264</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/h264/</link>
+        <pubDate>Sat, 23 Dec 2017 23:44:58 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/h264/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>OWASP</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/owasp/</link>
+        <pubDate>Tue, 21 Nov 2017 16:04:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/owasp/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>NMEA</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/nmea/</link>
+        <pubDate>Thu, 02 Nov 2017 10:07:32 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/nmea/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>SEO</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/seo/</link>
+        <pubDate>Fri, 20 Oct 2017 16:04:35 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/seo/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>CDN</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/cdn/</link>
+        <pubDate>Sun, 20 Aug 2017 15:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/cdn/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>CloudFlare</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/cloudflare/</link>
+        <pubDate>Sun, 20 Aug 2017 15:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/cloudflare/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>GoDaddy</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/godaddy/</link>
+        <pubDate>Sun, 20 Aug 2017 15:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/godaddy/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>SSL</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/ssl/</link>
+        <pubDate>Sun, 20 Aug 2017 15:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/ssl/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>mac</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/mac/</link>
+        <pubDate>Tue, 15 Aug 2017 15:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/mac/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>git</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/git/</link>
+        <pubDate>Thu, 22 Jun 2017 19:18:20 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/git/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>MacOSX</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/macosx/</link>
+        <pubDate>Thu, 22 Jun 2017 19:18:20 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/macosx/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>GCE</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/gce/</link>
+        <pubDate>Mon, 19 Jun 2017 16:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/gce/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>GCP</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/gcp/</link>
+        <pubDate>Mon, 19 Jun 2017 16:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/gcp/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>AWS</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/aws/</link>
+        <pubDate>Tue, 06 Jun 2017 19:18:13 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/aws/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>http2</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/http2/</link>
+        <pubDate>Fri, 03 Mar 2017 18:03:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/http2/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>https</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/https/</link>
+        <pubDate>Fri, 03 Mar 2017 18:03:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/https/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>TCP</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/tcp/</link>
+        <pubDate>Fri, 03 Mar 2017 18:03:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/tcp/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>tls</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/tls/</link>
+        <pubDate>Fri, 03 Mar 2017 18:03:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/tls/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>draft</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/draft/</link>
+        <pubDate>Thu, 02 Feb 2017 19:08:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/draft/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>hexo</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/hexo/</link>
+        <pubDate>Thu, 02 Feb 2017 19:08:43 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/hexo/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Apache</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/apache/</link>
+        <pubDate>Tue, 18 Oct 2016 00:00:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/apache/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>EC2</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/ec2/</link>
+        <pubDate>Tue, 18 Oct 2016 00:00:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/ec2/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>LAMP</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/lamp/</link>
+        <pubDate>Tue, 18 Oct 2016 00:00:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/lamp/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>MySQL</title>
+        <link>https://blog.dexiang.me/zh-tw/tags/mysql/</link>
+        <pubDate>Tue, 18 Oct 2016 00:00:06 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/tags/mysql/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

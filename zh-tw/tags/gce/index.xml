@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GCE on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/gce/</link>
+    <description>Recent content in GCE on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 19 Jun 2017 16:04:30 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/gce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>開始動手做吧～ 在 GCP 上建立自己的虛擬主機</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/start-gcp-and-gce/</link>
+        <pubDate>Mon, 19 Jun 2017 16:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/start-gcp-and-gce/</guid>
+        <description>最近申請了 GCP 上的帳號，首年免費試用，且送 300 美金，立馬開一台來玩玩啊。上面也有免費的機器可以使用，在盤算著是否可以把 AWS 上一些小的測試服務搬過來</description>
+      </item>
+      
+    
+  </channel>
+</rss>

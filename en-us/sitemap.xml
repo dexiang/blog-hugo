@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.dexiang.me/en-us/about/</loc>
+    <lastmod>2020-01-17T15:33:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/en-us/</loc>
+    <lastmod>2020-01-17T15:33:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/en-us/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/en-us/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/en-us/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/en-us/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/tags/"
+                />
+  </url>
+  
+</urlset>

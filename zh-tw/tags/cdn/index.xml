@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CDN on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/tags/cdn/</link>
+    <description>Recent content in CDN on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 20 Aug 2017 15:04:30 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/tags/cdn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>CloudFlare 代管 GoDaddy DNS</title>
+        <link>https://blog.dexiang.me/zh-tw/technologies/godaddy-to-cloudflare/</link>
+        <pubDate>Sun, 20 Aug 2017 15:04:30 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/technologies/godaddy-to-cloudflare/</guid>
+        <description>前一陣子把 GoDaddy 所購買的 Domain 搬到 CloudFlare 代管，主要是看上免費的 CDN 和 SSL，設定上也很方便 新增站台 註冊後，點選畫面的右上角「Add Site」來新增站台吧 在</description>
+      </item>
+      
+    
+  </channel>
+</rss>

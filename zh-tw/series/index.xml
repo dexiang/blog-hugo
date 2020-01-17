@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Tony 字傳</title>
+    <link>https://blog.dexiang.me/zh-tw/series/</link>
+    <description>Recent content in Series on Tony 字傳</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>blog@dexiang.me (Tony)</managingEditor>
+    <webMaster>blog@dexiang.me (Tony)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 23 Dec 2017 23:44:58 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.dexiang.me/zh-tw/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>media</title>
+        <link>https://blog.dexiang.me/zh-tw/series/media/</link>
+        <pubDate>Sat, 23 Dec 2017 23:44:58 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/series/media/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
