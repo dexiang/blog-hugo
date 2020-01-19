@@ -3,36 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.dexiang.me/zh-tw/</loc>
-    <lastmod>2020-01-17T15:33:33+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://blog.dexiang.me/en-us/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://blog.dexiang.me/zh-tw/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.dexiang.me/zh-tw/about/</loc>
-    <lastmod>2020-01-17T15:33:33+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://blog.dexiang.me/en-us/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://blog.dexiang.me/zh-tw/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://blog.dexiang.me/zh-tw/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
@@ -44,6 +14,21 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://blog.dexiang.me/zh-tw/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/</loc>
+    <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/"
                 />
   </url>
   
@@ -100,6 +85,16 @@
   <url>
     <loc>https://blog.dexiang.me/zh-tw/technologies/</loc>
     <lastmod>2018-05-20T17:35:45+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/technologies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/technologies/"
+                />
   </url>
   
   <url>
@@ -565,6 +560,21 @@
   <url>
     <loc>https://blog.dexiang.me/zh-tw/technologies/aws-ec2-lamp-1/</loc>
     <lastmod>2016-10-17T00:33:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.dexiang.me/zh-tw/about/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/about/"
+                />
   </url>
   
 </urlset>

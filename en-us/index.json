@@ -1,14 +1,5 @@
 [
 {
-	"uri": "https://blog.dexiang.me/en-us/about/",
-	"title": "About Me",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "About Me",
-	"content": "Tony, alias Anthony, alias Dexiang\n"
-},
-{
 	"uri": "https://blog.dexiang.me/en-us/",
 	"title": "Dexiang Blog",
 	"tags": [],
@@ -18,6 +9,24 @@
 	"content": ""
 },
 {
+	"uri": "https://blog.dexiang.me/en-us/technologies/",
+	"title": "Technologies",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://blog.dexiang.me/en-us/technologies/test/",
+	"title": "test",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": "test\n"
+},
+{
 	"uri": "https://blog.dexiang.me/en-us/archive/",
 	"title": "Archive",
 	"tags": [],
@@ -25,6 +34,15 @@
 	"series": [],
 	"description": "Archive Page",
 	"content": "archive page\n"
+},
+{
+	"uri": "https://blog.dexiang.me/en-us/about/",
+	"title": "About Me",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "About Me",
+	"content": "Tony, alias Anthony, alias Dexiang\n"
 },
 {
 	"uri": "https://blog.dexiang.me/en-us/categories/",
