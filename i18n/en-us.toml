@@ -7,16 +7,19 @@ other = "Jan 2, 2006"
 [reading-time]
 other = "min read"
 
-[taxo-tags]
+[tags]
 other = "Tags"
 
-[taxo-categories]
+[categories]
 other = "Categories"
 
-[taxo-series]
+[series]
 other = "Series"
 
 [archive-dateformat]
+other = "Jan 2"
+
+[talks-dateformat]
 other = "Jan 2"
 
 [single-dateformat]
@@ -54,3 +57,15 @@ other = "Message"
 
 [contact-send]
 other = "Send"
+
+[tooltip-home]
+other = "Home"
+
+[tooltip-written]
+other = "Written At"
+
+[tooltip-modified]
+other = "Modified At"
+
+[tooltip-reading-time]
+other = "Reading Time"
