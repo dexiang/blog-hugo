@@ -7,17 +7,20 @@ other = "2006年01月02日"
 [reading-time]
 other = "分鐘"
 
-[taxo-tags]
+[tags]
 other = "標籤"
 
-[taxo-categories]
+[categories]
 other = "分類"
 
-[taxo-series]
+[series]
 other = "系列"
 
 [archive-dateformat]
 other = "01-02"
+
+[talks-dateformat]
+other = "Jan 2"
 
 [single-dateformat]
 other = "2006年01月02日"
@@ -54,3 +57,15 @@ other = "消息"
 
 [contact-send]
 other = "發送"
+
+[tooltip-home]
+other = "首頁"
+
+[tooltip-written]
+other = "建立日期"
+
+[tooltip-modified]
+other = "更新日期"
+
+[tooltip-reading-time]
+other = "閱讀時間"
