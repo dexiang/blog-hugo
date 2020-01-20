@@ -244,7 +244,7 @@
 },
 {
 	"uri": "https://blog.dexiang.me/zh-tw/tags/go/",
-	"title": "go",
+	"title": "Go",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -907,4 +907,13 @@
 	"series": [],
 	"description": "About Me",
 	"content": "我是 Tony\n"
+},
+{
+	"uri": "https://blog.dexiang.me/zh-tw/trivia/",
+	"title": "MISC",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": "雜記測試\n"
 }]

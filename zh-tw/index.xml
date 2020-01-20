@@ -277,6 +277,15 @@
         <description>我是 Tony</description>
       </item>
       
+      <item>
+        <title>MISC</title>
+        <link>https://blog.dexiang.me/zh-tw/trivia/</link>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+        <author>blog@dexiang.me (Tony)</author>
+        <guid>https://blog.dexiang.me/zh-tw/trivia/</guid>
+        <description>雜記測試</description>
+      </item>
+      
     
   </channel>
 </rss>

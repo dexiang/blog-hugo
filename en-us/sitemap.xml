@@ -68,6 +68,21 @@
   </url>
   
   <url>
+    <loc>https://blog.dexiang.me/en-us/trivia/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.dexiang.me/zh-tw/trivia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://blog.dexiang.me/en-us/trivia/"
+                />
+  </url>
+  
+  <url>
     <loc>https://blog.dexiang.me/en-us/categories/</loc>
     <xhtml:link
                 rel="alternate"

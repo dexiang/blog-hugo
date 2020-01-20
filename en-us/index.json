@@ -1,7 +1,7 @@
 [
 {
 	"uri": "https://blog.dexiang.me/en-us/",
-	"title": "Dexiang Blog",
+	"title": "",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -43,6 +43,15 @@
 	"series": [],
 	"description": "About Me",
 	"content": "Tony, alias Anthony, alias Dexiang\n"
+},
+{
+	"uri": "https://blog.dexiang.me/en-us/trivia/",
+	"title": "MISC",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": "MISC Test\n"
 },
 {
 	"uri": "https://blog.dexiang.me/en-us/categories/",
