@@ -6,12 +6,16 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Tony 字傳
     subtitle:
-      - The world’s fastest framework for building websites
+      - 用文字記錄生活
+    titleColor: 
+    titleShadow: true
     titleFontSize: 44
-    subtitleFontSize: 16
-    spaceBetweenTitleSubtitle: 20
+    subtitleColor: 
+    subtitleCursive: true
+    subtitleFontSize: 18
+    spaceBetweenTitleSubtitle: 16
   
   - type: img
     imageSrc: images/header/background.jpg
