@@ -69,3 +69,9 @@ other = "更新日期"
 
 [tooltip-reading-time]
 other = "閱讀時間"
+
+[showcase-overview]
+other = "總覽"
+
+[showcase-pinned]
+other = "固定"
