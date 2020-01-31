@@ -2,8 +2,11 @@
   title = "Tony 字傳"
   languageName = "中文"
   weight = 1
+  languagedir = "ltr"
+
 
 [en-us]
   title = "Dexiang Blog"
   languageName = "English"
   weight = 2
+  languagedir = "ltr"

@@ -31,6 +31,7 @@ talksGroupByDate = "2006"
 myname = "Tony"
 email = "blog@dexiang.me"
 whoami = "Software Engineer"
+bioImageUrl = ""
 useGravatar = false
 location = ""
 organization = ""
@@ -136,6 +137,9 @@ commento = false
   mastodon = ""
   jianshu = ""
   zhihu = ""
+  signal = ""
+  whatsapp = ""
+
 
 
 [donationOptions]
@@ -145,5 +149,9 @@ commento = false
   paypal = "" # Paypal URL
   patreon = "" # Patreon URL
 
-[share]
-  # options = ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
+# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
+[[share]]
+  name = "facebook"
+  username = ""
+[[share]]
+  name = "twitter"
