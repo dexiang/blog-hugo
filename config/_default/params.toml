@@ -47,6 +47,7 @@ enableHomeSidebarTitles = true
 enableListSidebarTitles = true
 enableToc = true
 hideToc = false
+tocFolding = true
 tocPosition = "inner" # inner, outer
 enableTocSwitch = true
 itemsPerCategory = 5
@@ -139,8 +140,8 @@ commento = false
   zhihu = ""
   signal = ""
   whatsapp = ""
-
-
+  matrix = ""
+  xmpp = ""
 
 [donationOptions]
   enable = false # if set, the donation button will show up on the single page.
