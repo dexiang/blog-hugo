@@ -28,6 +28,9 @@ other = "2006年01月02日"
 [pub-dateformat]
 other = "2006-01-02"
 
+[resume-dateformat]
+other = "2006年01月"
+
 [single-related]
 other = "相關內容"
 
@@ -58,11 +61,20 @@ other = "姓名"
 [contact-email]
 other = "電子郵件"
 
+[contact-tel]
+other = "Tel"
+
+[contact-file]
+other = "File"
+
 [contact-message]
 other = "消息"
 
 [contact-send]
 other = "發送"
+
+[contact-browse]
+other = "Browse"
 
 [tooltip-home]
 other = "首頁"
@@ -81,3 +93,6 @@ other = "總覽"
 
 [showcase-pinned]
 other = "固定"
+
+[nojs-message]
+other = "Please enable Javascript to view the contents"

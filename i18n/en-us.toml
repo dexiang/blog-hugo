@@ -28,6 +28,9 @@ other = "Jan 2, 2006"
 [pub-dateformat]
 other = "2006-01-02"
 
+[resume-dateformat]
+other = "Jan, 2006"
+
 [single-related]
 other = "See Also"
 
@@ -58,11 +61,20 @@ other = "Name"
 [contact-email]
 other = "Email"
 
+[contact-tel]
+other = "Tel"
+
+[contact-file]
+other = "File"
+
 [contact-message]
 other = "Message"
 
 [contact-send]
 other = "Send"
+
+[contact-browse]
+other = "Browse"
 
 [tooltip-home]
 other = "Home"
@@ -81,3 +93,6 @@ other = "Overview"
 
 [showcase-pinned]
 other = "Pinned"
+
+[nojs-message]
+other = "Please enable Javascript to view the contents"
