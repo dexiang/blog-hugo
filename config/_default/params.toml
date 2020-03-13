@@ -13,7 +13,9 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
+viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
+hideSingleContentsWhenJSDisabled = false
 
 # header
 homeHeaderType = "text" # text, img, slide
@@ -91,6 +93,11 @@ enableComment = true
 disqus_shortname = ""
 commento = false
 
+[telegram]
+  enable = false
+  siteId = ""
+  dataLimit = 5
+
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
   owner = ""              # Your GitHub ID
   repo = ""               # The repo to store comments
@@ -163,6 +170,7 @@ commento = false
   xmpp = ""
   dev-to = ""
   gitea = ""
+  google-scholar = ""
 
 [donationOptions]
   enable = false # if set, the donation button will show up on the single page.
