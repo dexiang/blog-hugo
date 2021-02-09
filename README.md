@@ -13,3 +13,9 @@
 ├── resources: Cache
 └── public: static html
 ```
+
+## preview
+
+```zsh
+$ hugo server --watch --buildDrafts
+```
