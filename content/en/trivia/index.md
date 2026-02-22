@@ -1,6 +1,4 @@
 ---
-title: "MISC"
+title: "Trivia"
 date: 2016-01-01T00:00:00+00:00
 ---
-
-雜記測試

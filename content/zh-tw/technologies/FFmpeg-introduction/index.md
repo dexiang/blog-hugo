@@ -8,9 +8,6 @@ series:
 tags:
   - FFmpeg
 date: 2017-12-20 17:04:38
-libraries:
-  - mermaid
-
 ---
 
 ![FFmpeg](ffmpeg.png)
