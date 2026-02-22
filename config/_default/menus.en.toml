@@ -1,22 +1,22 @@
 # -- Main Menu --
 
 [[main]]
-  name = "關於我"
+  name = "About"
   pageRef = "about"
   weight = 10
 
 [[main]]
-  name = "科技"
+  name = "Technology"
   pageRef = "technologies"
   weight = 20
 
 [[main]]
-  name = "雜記"
+  name = "Trivia"
   pageRef = "trivia"
   weight = 30
 
 [[main]]
-  name = "歸檔"
+  name = "Archive"
   pageRef = "archive"
   weight = 40
 

@@ -1,0 +1,21 @@
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "Dexiang Blog"
+contentDir = "content/en"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+  description = "Tony's tech blog"
+
+[params.author]
+  name = "Tony"
+  email = "blog@dexiang.me"
+  headline = "Software Engineer"
+  links = [
+    { github = "https://github.com/dexiang" },
+    { linkedin = "https://www.linkedin.com/in/tony-xu/" },
+    { email = "mailto:tony@dexiang.me" },
+  ]

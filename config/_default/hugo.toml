@@ -1,0 +1,46 @@
+# -- Site Configuration --
+# https://blowfish.page/docs/getting-started/
+
+theme = "blowfish"
+baseURL = "https://blog.dexiang.me"
+defaultContentLanguage = "zh-tw"
+
+enableRobotsTXT = true
+summaryLength = 70
+hasCJKLanguage = true
+
+buildDrafts = false
+buildFuture = false
+
+enableEmoji = true
+
+[pagination]
+  pagerSize = 13
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[related]
+  threshold = 0
+  toLower = false
+
+    [[related.indices]]
+      name = "tags"
+      weight = 100
+
+    [[related.indices]]
+      name = "categories"
+      weight = 100
+
+    [[related.indices]]
+      name = "series"
+      weight = 50
+
+    [[related.indices]]
+      name = "date"
+      weight = 10
