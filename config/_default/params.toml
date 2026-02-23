@@ -1,0 +1,70 @@
+# -- Theme Parameters --
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+logo = "img/logo.png"
+colorScheme = "ocean"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["tech", "life"]
+
+defaultFeaturedImage = "img/default-cover.svg"
+
+[header]
+  layout = "fixed-fill-blur"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "hero"
+  homepageImage = "img/hero.svg"
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "tech"
+  cardView = true
+  cardViewScreenWidth = false
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 5
+  showTaxonomies = true
+  showWordCount = false
+  sharingLinks = ["twitter", "linkedin", "facebook", "email"]
+
+[list]
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  showCards = true
+  groupByYear = true
+  cardView = true
+  cardViewScreenWidth = false
+
+[taxonomy]
+  showTermCount = true
+  showBreadcrumbs = true
+
+[term]
+  showBreadcrumbs = true
+  groupByYear = true
+  cardView = true
+  cardViewScreenWidth = false

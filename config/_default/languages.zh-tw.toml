@@ -1,0 +1,22 @@
+languageCode = "zh-TW"
+languageName = "中文"
+weight = 1
+title = "Tony 字傳"
+contentDir = "content/zh-tw"
+
+[params]
+  displayName = "中文"
+  isoCode = "zh-TW"
+  dateFormat = "2006-01-02"
+  description = "Tony 的技術部落格"
+
+[params.author]
+  name = "Tony Xu"
+  image = "img/avatar.png"
+  email = "tony.xu@dexiang.me"
+  headline = "Software Engineer"
+  links = [
+    { github = "https://github.com/dexiang" },
+    { linkedin = "https://www.linkedin.com/in/tony-xu/" },
+    { email = "mailto:tony.xu@dexiang.me" },
+  ]

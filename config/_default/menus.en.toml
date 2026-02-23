@@ -1,0 +1,16 @@
+# -- Main Menu --
+
+[[main]]
+  name = "Tech"
+  pageRef = "tech"
+  weight = 20
+
+[[main]]
+  name = "Life"
+  pageRef = "life"
+  weight = 30
+
+[[main]]
+  identifier = "search"
+  pre = "search"
+  weight = 99

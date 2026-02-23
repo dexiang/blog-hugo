@@ -1,0 +1,16 @@
+# -- Main Menu --
+
+[[main]]
+  name = "技術"
+  pageRef = "tech"
+  weight = 20
+
+[[main]]
+  name = "暮らし"
+  pageRef = "life"
+  weight = 30
+
+[[main]]
+  identifier = "search"
+  pre = "search"
+  weight = 99

@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "Tony's Log"
+contentDir = "content/en"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+  description = "Tony's tech blog"
+
+[params.author]
+  name = "Tony Xu"
+  image = "img/avatar.png"
+  email = "tony.xu@dexiang.me"
+  headline = "Software Engineer"
+  links = [
+    { github = "https://github.com/dexiang" },
+    { linkedin = "https://www.linkedin.com/in/tony-xu/" },
+    { email = "mailto:tony.xu@dexiang.me" },
+  ]

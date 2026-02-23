@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c8e0f4"/>
+      <stop offset="100%" stop-color="#e8f1fa"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a8cce8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#b8d8f0" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#90bde0" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#a8d0ec" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#sky)"/>
+  <!-- Soft geometric hills -->
+  <ellipse cx="480" cy="1080" rx="800" ry="350" fill="url(#wave1)"/>
+  <ellipse cx="1500" cy="1080" rx="900" ry="280" fill="url(#wave2)"/>
+  <ellipse cx="960" cy="1080" rx="1100" ry="200" fill="#d4e6f5" fill-opacity="0.4"/>
+  <!-- Subtle circles -->
+  <circle cx="1600" cy="200" r="120" fill="#ffffff" fill-opacity="0.25"/>
+  <circle cx="1550" cy="250" r="80" fill="#ffffff" fill-opacity="0.15"/>
+  <circle cx="300" cy="350" r="60" fill="#ffffff" fill-opacity="0.12"/>
+</svg>
