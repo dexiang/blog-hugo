@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "Dexiang Blog"
+title = "Tony's Log"
 contentDir = "content/en"
 
 [params]
@@ -11,11 +11,12 @@ contentDir = "content/en"
   description = "Tony's tech blog"
 
 [params.author]
-  name = "Tony"
-  email = "blog@dexiang.me"
+  name = "Tony Xu"
+  image = "img/avatar.png"
+  email = "tony.xu@dexiang.me"
   headline = "Software Engineer"
   links = [
     { github = "https://github.com/dexiang" },
     { linkedin = "https://www.linkedin.com/in/tony-xu/" },
-    { email = "mailto:tony@dexiang.me" },
+    { email = "mailto:tony.xu@dexiang.me" },
   ]

@@ -6,7 +6,7 @@
   weight = 20
 
 [[main]]
-  name = "生活"
+  name = "暮らし"
   pageRef = "life"
   weight = 30
 

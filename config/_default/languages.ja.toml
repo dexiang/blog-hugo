@@ -1,14 +1,14 @@
-languageCode = "zh-TW"
-languageName = "中文"
-weight = 1
-title = "Tony 字傳"
-contentDir = "content/zh-tw"
+languageCode = "ja"
+languageName = "日本語"
+weight = 3
+title = "トニーの綴り"
+contentDir = "content/ja"
 
 [params]
-  displayName = "中文"
-  isoCode = "zh-TW"
-  dateFormat = "2006-01-02"
-  description = "Tony 的技術部落格"
+  displayName = "日本語"
+  isoCode = "ja"
+  dateFormat = "2006年1月2日"
+  description = "Tony の技術ブログ"
 
 [params.author]
   name = "Tony Xu"

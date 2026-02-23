@@ -1,17 +1,20 @@
 # -- Theme Parameters --
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
-defaultAppearance = "dark"
+logo = "img/logo.png"
+colorScheme = "ocean"
+defaultAppearance = "light"
 autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["technologies", "trivia"]
+mainSections = ["tech", "life"]
+
+defaultFeaturedImage = "img/default-cover.svg"
 
 [header]
-  layout = "fixed"
+  layout = "fixed-fill-blur"
 
 [footer]
   showMenu = true
@@ -21,11 +24,12 @@ mainSections = ["technologies", "trivia"]
   showScrollToTop = true
 
 [homepage]
-  layout = "profile"
+  layout = "hero"
+  homepageImage = "img/hero.svg"
   showRecent = true
-  showRecentItems = 10
+  showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "technologies"
+  showMoreLinkDest = "tech"
   cardView = true
   cardViewScreenWidth = false
 
